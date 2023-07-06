@@ -25,11 +25,11 @@ Illustration of the Pyramid of Pain:
 According to David J Bianco the pyramid Iocs are:
 David J Bianco himself:
 
-1. *Hash values: SHA1, MD5, or other similar hashes that correspond to specific suspicious or malicious files. Hash values are often used to provide unique references to specific samples of malware or to files involved in an intrusion.*
+1.*Hash values: SHA1, MD5, or other similar hashes that correspond to specific suspicious or malicious files. Hash values are often used to provide unique references to specific samples of malware or to files involved in an intrusion.*
 
 2.*IP addresses: As the name suggests, but also includes netblocks.*
 
-2. *Domain names: A domain name itself, or sub domains.* 
+2.*Domain names: A domain name itself, or sub domains.* 
 
 3.*Network Artifacts: Adversaries’ network activities that are observable. Typical examples include URI patterns, C2 information embedded in network protocols, distinctive HTTP User-Agent, or SMTP Mailer values, etc.*
 
