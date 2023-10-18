@@ -1,4 +1,4 @@
-# Ioc
+# IoC
 Analyzed an artifact using VirusTotal and captured details about its related indicators of compromise using the Pyramid of Pain.
 
 Tools used: *VirusTotal(https://www.virustotal.com/gui/home/upload)*
